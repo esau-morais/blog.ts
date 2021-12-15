@@ -24,7 +24,6 @@ function PostDetails({ post }) {
               slug={post.slut}
               categories={post.categories.map((category) => category.slug)}
             />
-            <Categories />
           </div>
         </div>
       </div>

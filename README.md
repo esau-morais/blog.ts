@@ -1,27 +1,19 @@
-# Next.js + Tailwind CSS Example
+# ✍️ Blog.tsx
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v3.0)](https://tailwindcss.com/blog/tailwindcss-v3) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+A personal and simple blog made to bring more content to devs and make everything easy and understandable!
 
-## Preview
+## Buit with
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+1. Next.js
+2. Tailwind CSS
+3. GraphQl/Graph CMS
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## Author
 
-## Deploy your own
+Esaú Morais
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+[![Linkedin URL](https://img.shields.io/twitter/url?color=3397d8&label=in/emmorais&logo=linkedin&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com/in/emmorais)](https://www.linkedin.com/in/emmorais)<br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+[![Instagram URL](https://img.shields.io/twitter/url?color=3397d8&label=x_l0stx&logo=instagram&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.instagram.com/esau_morais)](https://www.instagram.com/x_l0stx)<br>
 
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+[![Twitter URL](https://img.shields.io/twitter/url?color=3397d8&label=lil0serboy&logo=twitter&logoColor=%23FFF&style=for-the-badge&url=https%3A%2F%2Fwww.twitter.com/esau_morais)](https://www.twitter.com/lil0serboy)<br>
